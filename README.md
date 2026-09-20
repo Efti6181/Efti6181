@@ -85,10 +85,6 @@ I am particularly interested in developing systems that are **intelligent, scala
 
 <br/>
 
-### 💡 Engineering Concepts I Work With
-
-`OOP` • `MVC` • `MVVM` • `REST APIs` • `ASP.NET Core Identity` • `Entity Framework Core` • `Authentication` • `Authorization` • `PostgreSQL` • `Firebase Realtime Database` • `Room` • `Retrofit` • `Hilt` • `Git/GitHub` • `Data Structures` • `Search Algorithms` • `Minimax` • `Alpha-Beta Pruning` • `Computer Networks` • `Cybersecurity Fundamentals`
-
 ### 🤖 AI / ML & Data Science Focus
 
 ![Python](https://img.shields.io/badge/Python-AI%20%26%20Data-3776AB?style=for-the-badge&logo=python&logoColor=white)
