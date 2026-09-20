@@ -1,8 +1,3 @@
-brary
-/
-README.md
-
-
 <div align="center">
 
 <img src="./assets/efti-ai-hero.svg" width="100%" alt="Najmul Alam Efti — AI ML Data Science Software Developer"/>
