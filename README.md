@@ -226,9 +226,6 @@ A Python backend project focused on API design, validation, models, and REST dev
 
 ---
 
-</div>
-
----
 
 # 🎓 Learning & Certifications
 
@@ -280,48 +277,6 @@ A Python backend project focused on API design, validation, models, and REST dev
 </div>
 
 ---
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Efti6181&theme=tokyo-night&hide_border=true&area=true&custom_title=Efti's%20Contribution%20Graph" alt="Contribution Graph"/>
-
-</div>
-
----
-
-# 🎯 AI / ML & Data Science Roadmap
-
-```mermaid
-flowchart LR
-    A[Strong CS Foundation] --> B[Python + Problem Solving]
-    B --> C[Statistics + Probability]
-    C --> D[Data Analysis + Visualization]
-    D --> E[Machine Learning]
-    E --> F[Deep Learning]
-    F --> G[AI Engineering]
-    G --> H[Intelligent Real-World Systems]
-```
-
-### Current Learning Path
-
-`Python` → `NumPy` → `Pandas` → `Statistics` → `Data Visualization` → `Scikit-learn` → `Machine Learning` → `Deep Learning` → `AI Engineering`
-
----
-
-# 🤝 Let's Build Something Meaningful
-
-I enjoy collaborating on projects involving:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 💻 Software Engineering
-- ⚡ Backend APIs
-- 📱 Android Development
-- 🎓 Educational Technology
-- 🔐 Secure and intelligent software systems
 
 <div align="center">
 
