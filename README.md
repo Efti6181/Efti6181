@@ -8,8 +8,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F00FF,100:FF00C8&height=250&section=header&text=Najmul%20Alam%20Efti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Data%20Science%20Learner&descAlignY=58&descSize=17" alt="Najmul Alam Efti Header"/>
 
 <a href="https://github.com/Efti6181">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&lines=Computer+Science+%26+Engineering+Student;Building+StudyPilot+%F0%9F%9A%80;AI+%2B+Backend+%2B+Android+Developer;Exploring+Machine+Learning+%26+Data+Science;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2300&pause=650&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Building+Intelligent+Software+%F0%9F%A7%A0;Exploring+AI%2FML+%26+Data+Science+%F0%9F%93%8A;Creating+Backend+%26+Android+Applications+%E2%9A%A1;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Animated Intro" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-7F00FF?style=flat-square" alt="AI ML"/>
+<img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE-00C9FF?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/BUILDING-STUDYPILOT-FF00C8?style=flat-square" alt="StudyPilot"/>
 
 <br/>
 
@@ -21,98 +27,108 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Najmul Alam Efti
-username: Efti6181
-role: CSE Student & Software Developer
-location: Bangladesh
-
-currently_building:
-  - StudyPilot — Academic Success Platform
-  - Backend APIs & Database-driven Applications
-  - AI-assisted Academic Features
-  - Android Applications
-
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Software Engineering
-  - Backend Development
-  - Android Development
-  - Cybersecurity
-
-career_direction:
-  - Become an AI / ML Engineer
-  - Build intelligent and data-driven software
-  - Develop strong Data Science and Machine Learning expertise
-  - Work on real-world AI products and intelligent systems
-```
-
-I am a **Computer Science & Engineering student** who enjoys transforming ideas into practical software solutions.
-
-My experience spans **ASP.NET Core MVC, Python/FastAPI, Android/Kotlin, databases, artificial intelligence algorithms, web development, computer networks, cybersecurity fundamentals, and software engineering**.
-
-My long-term goal is to build a career in **Artificial Intelligence, Machine Learning, and Data Science**, while continuing to strengthen my foundation in software engineering and backend development.
-
-I am particularly interested in developing systems that are **intelligent, scalable, maintainable, secure, and useful in real-world environments**.
-
----
-
-## 🚀 Current Mission
+👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-### 🎓 Building
+Hi, I'm Najmul Alam Efti 👋
 
-- **StudyPilot** academic success platform
-- Role-based systems for **Student / Faculty / Admin**
-- Secure authentication & authorization
-- PostgreSQL-backed application modules
-- AI-assisted academic planning
-- REST APIs and backend applications
-- Modern Android applications
+I'm a Computer Science & Engineering student who enjoys building practical software and exploring how data and intelligence can make applications smarter.
+
+My main career direction is Artificial Intelligence, Machine Learning, and Data Science. Alongside that, I continue strengthening my software engineering foundation through backend development, Android applications, databases, APIs, and full-stack projects.
+
+I learn best by building — turning concepts into real applications, experimenting with algorithms, and improving projects step by step.
+
+Currently focused on:
+AI/ML • Data Science • Python • Backend Engineering • Android Development
+
+Currently building:
+🚀 StudyPilot — an academic success platform with AI-assisted features.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-### 🌱 Learning Next
+developer = {
+    "name": "Najmul Alam Efti",
+    "role": "CSE Student",
+    "focus": ["AI/ML", "Data Science"],
+    "building": "StudyPilot",
+    "main_language": "Python",
+    "goal": "AI / ML Engineer"
+}
 
-- Machine Learning fundamentals
-- Data preprocessing & feature engineering
-- NumPy & Pandas
-- Data visualization
-- Statistics & probability
-- Scikit-learn
-- Model evaluation
-- Deep Learning fundamentals
+🎯 Goal
+
+Build intelligent, data-driven systems that solve meaningful real-world problems.
 
 </td>
 </tr>
 </table>
 
----
+🚀 Current Mission
 
-# 🛠️ Tech Arsenal
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🎓 Building
+
+StudyPilot academic success platform
+
+Role-based systems for Student / Faculty / Admin
+
+Secure authentication & authorization
+
+PostgreSQL-backed application modules
+
+AI-assisted academic planning
+
+REST APIs and backend applications
+
+Modern Android applications
+
+</td>
+
+<td width="50%" valign="top">
+
+🌱 Learning Next
+
+Machine Learning fundamentals
+
+Data preprocessing & feature engineering
+
+NumPy & Pandas
+
+Data visualization
+
+Statistics & probability
+
+Scikit-learn
+
+Model evaluation
+
+Deep Learning fundamentals
+
+</td>
+</tr>
+</table>
+
+🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
+Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,kotlin,js,html,css&perline=9" alt="Languages"/>
 
-### Frameworks & Development
+Frameworks & Development
 
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi,bootstrap,androidstudio,visualstudio,vscode&perline=6" alt="Frameworks and IDEs"/>
 
-### Databases, Tools & Platforms
+Databases, Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite,git,github,linux,postman&perline=8" alt="Databases and Tools"/>
 
@@ -120,45 +136,51 @@ I am particularly interested in developing systems that are **intelligent, scala
 
 <br/>
 
-### 💡 Engineering Concepts I Work With
+💡 Engineering Concepts I Work With
 
-`OOP` • `MVC` • `MVVM` • `REST APIs` • `ASP.NET Core Identity` • `Entity Framework Core` • `Authentication` • `Authorization` • `PostgreSQL` • `Firebase Realtime Database` • `Room` • `Retrofit` • `Hilt` • `Git/GitHub` • `Data Structures` • `Search Algorithms` • `Minimax` • `Alpha-Beta Pruning` • `Computer Networks` • `Cybersecurity Fundamentals`
+OOP • MVC • MVVM • REST APIs • ASP.NET Core Identity • Entity Framework Core • Authentication • Authorization • PostgreSQL • Firebase Realtime Database • Room • Retrofit • Hilt • Git/GitHub • Data Structures • Search Algorithms • Minimax • Alpha-Beta Pruning • Computer Networks • Cybersecurity Fundamentals
 
-### 🤖 AI / ML & Data Science Focus
+🤖 AI / ML & Data Science Focus
 
-![Python](https://img.shields.io/badge/Python-AI%20%26%20Data-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Career%20Focus-7F00FF?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-Career%20Focus-00C9FF?style=for-the-badge)
 
----
 
-# 🌟 Featured Projects
+
+
+
+
+
+
+🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 StudyPilot
+🚀 StudyPilot
 
-**University Academic Success Platform**
+University Academic Success Platform
 
 A growing ASP.NET Core MVC application designed for students, faculty, and administrators.
 
-**Highlights**
+Highlights
 
-- ASP.NET Core MVC
-- C#
-- PostgreSQL
-- Entity Framework Core
-- ASP.NET Core Identity
-- Student / Faculty / Admin roles
-- Academic modules
-- Community, Events & Notifications
-- AI-assisted academic features
+ASP.NET Core MVC
+
+C#
+
+PostgreSQL
+
+Entity Framework Core
+
+ASP.NET Core Identity
+
+Student / Faculty / Admin roles
+
+Academic modules
+
+Community, Events & Notifications
+
+AI-assisted academic features
 
 <a href="https://github.com/Efti6181/StudyPilot">
   <img src="https://img.shields.io/badge/View%20Repository-StudyPilot-7F00FF?style=for-the-badge&logo=github" />
@@ -168,21 +190,27 @@ A growing ASP.NET Core MVC application designed for students, faculty, and admin
 
 <td width="50%" valign="top">
 
-## ♟️ Stratego Duel AI
+♟️ Stratego Duel AI
 
-**Adversarial AI Game**
+Adversarial AI Game
 
 A Python/Pygame strategy game featuring an AI opponent built with classic adversarial search techniques.
 
-**Highlights**
+Highlights
 
-- Python
-- Pygame
-- Minimax
-- Alpha-Beta Pruning
-- Evaluation Function
-- Game State Search
-- AI Decision Making
+Python
+
+Pygame
+
+Minimax
+
+Alpha-Beta Pruning
+
+Evaluation Function
+
+Game State Search
+
+AI Decision Making
 
 <a href="https://github.com/Efti6181/STRATEGO-DUEL-AI-GAME">
   <img src="https://img.shields.io/badge/View%20Repository-Stratego%20AI-00C9FF?style=for-the-badge&logo=github" />
@@ -194,21 +222,27 @@ A Python/Pygame strategy game featuring an AI opponent built with classic advers
 <tr>
 <td width="50%" valign="top">
 
-## 📱 Android News App
+📱 Android News App
 
-**Modern Android Application**
+Modern Android Application
 
 A structured Android project built using modern Android architecture and development practices.
 
-**Highlights**
+Highlights
 
-- Kotlin
-- Jetpack Compose
-- MVVM
-- Room
-- Retrofit
-- Hilt
-- API Integration
+Kotlin
+
+Jetpack Compose
+
+MVVM
+
+Room
+
+Retrofit
+
+Hilt
+
+API Integration
 
 <a href="https://github.com/Efti6181/Android-News-App">
   <img src="https://img.shields.io/badge/View%20Repository-Android%20News-FF00C8?style=for-the-badge&logo=github" />
@@ -218,20 +252,25 @@ A structured Android project built using modern Android architecture and develop
 
 <td width="50%" valign="top">
 
-## ⚡ Bookshop API
+⚡ Bookshop API
 
-**REST API with FastAPI**
+REST API with FastAPI
 
 A Python backend project focused on API design, validation, models, and REST development fundamentals.
 
-**Highlights**
+Highlights
 
-- Python
-- FastAPI
-- Pydantic
-- REST API
-- CRUD Concepts
-- HTTP Status Handling
+Python
+
+FastAPI
+
+Pydantic
+
+REST API
+
+CRUD Concepts
+
+HTTP Status Handling
 
 <a href="https://github.com/Efti6181/Bookshop-api">
   <img src="https://img.shields.io/badge/View%20Repository-Bookshop%20API-22C55E?style=for-the-badge&logo=github" />
@@ -241,31 +280,84 @@ A Python backend project focused on API design, validation, models, and REST dev
 </tr>
 </table>
 
----
+🧩 More Projects
 
-## 🧩 More Projects
+Project
 
-| Project | Focus | Repository |
-|---|---|---|
-| 🎓 **University Management System** | PHP, MySQL, role-based academic management | [Explore](https://github.com/Efti6181/University_Management_System) |
-| 📄 **PUC Cover Page Generator** | Web automation, HTML/CSS/JS | [Explore](https://github.com/Efti6181/PUC_Cover_Page_Generator) |
-| 📚 **Library Management System** | Java, OOP, Swing | [Explore](https://github.com/Efti6181/Library_Management_System) |
-| 🤖 **IoT Fire Fighting Robot** | IoT, embedded systems, robotics | [Explore](https://github.com/Efti6181/IOT_Fire_Fighting_Robot) |
-| 🧠 **Deadlock Detection Simulator** | Operating systems concepts | [Explore](https://github.com/Efti6181/Deadlock-Detection-Simulator) |
-| 📝 **Android Notes App** | Kotlin, Compose, Room | [Explore](https://github.com/Efti6181/Android-Notes-App) |
-| 🛒 **Android E-Commerce App** | Mobile application development | [Explore](https://github.com/Efti6181/Android-E-Commerce-App) |
-| ✅ **Task Management API** | Backend API development | [Explore](https://github.com/Efti6181/Task_Management_API) |
-| 📊 **OBE CGPA Calculator** | Academic utility application | [Explore](https://github.com/Efti6181/OBE_CGPA_Calculator) |
-| 💰 **Personal Expense Tracker** | Data handling & application logic | [Explore](https://github.com/Efti6181/Personal-Expense-Tracker) |
-| 📈 **Data Science Practice** | Data analysis & learning | [Explore](https://github.com/Efti6181/Data-Science-CWH) |
+Focus
 
----
+Repository
 
-# 🧠 AI & Computer Science
+🎓 University Management System
+
+PHP, MySQL, role-based academic management
+
+Explore
+
+📄 PUC Cover Page Generator
+
+Web automation, HTML/CSS/JS
+
+Explore
+
+📚 Library Management System
+
+Java, OOP, Swing
+
+Explore
+
+🤖 IoT Fire Fighting Robot
+
+IoT, embedded systems, robotics
+
+Explore
+
+🧠 Deadlock Detection Simulator
+
+Operating systems concepts
+
+Explore
+
+📝 Android Notes App
+
+Kotlin, Compose, Room
+
+Explore
+
+🛒 Android E-Commerce App
+
+Mobile application development
+
+Explore
+
+✅ Task Management API
+
+Backend API development
+
+Explore
+
+📊 OBE CGPA Calculator
+
+Academic utility application
+
+Explore
+
+💰 Personal Expense Tracker
+
+Data handling & application logic
+
+Explore
+
+📈 Data Science Practice
+
+Data analysis & learning
+
+Explore
+
+🧠 AI & Computer Science
 
 <div align="center">
 
-```text
 Artificial Intelligence
 ├── BFS
 ├── DFS
@@ -293,13 +385,10 @@ Software Engineering
 ├── Database Integration
 ├── Git Version Control
 └── Modular Application Architecture
-```
 
 </div>
 
----
-
-# 🎓 Learning & Certifications
+🎓 Learning & Certifications
 
 <div align="center">
 
@@ -319,16 +408,19 @@ Software Engineering
 
 <br/>
 
-- ✅ **CS50x — Introduction to Computer Science**
-- ✅ **CS50P — Introduction to Programming with Python**
-- ✅ **CS50AI — Introduction to Artificial Intelligence with Python**
-- ✅ **HarvardX — Fat Chance: Probability from the Ground Up**
-- ✅ **Computer Science for Artificial Intelligence**
-- 📚 Continuing toward **Machine Learning & Data Science**
+✅ CS50x — Introduction to Computer Science
 
----
+✅ CS50P — Introduction to Programming with Python
 
-# 📊 GitHub Analytics
+✅ CS50AI — Introduction to Artificial Intelligence with Python
+
+✅ HarvardX — Fat Chance: Probability from the Ground Up
+
+✅ Computer Science for Artificial Intelligence
+
+📚 Continuing toward Machine Learning & Data Science
+
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -348,9 +440,7 @@ Software Engineering
 
 </div>
 
----
-
-# 📈 Contribution Activity
+📈 Contribution Activity
 
 <div align="center">
 
@@ -358,11 +448,8 @@ Software Engineering
 
 </div>
 
----
+🎯 AI / ML & Data Science Roadmap
 
-# 🎯 AI / ML & Data Science Roadmap
-
-```mermaid
 flowchart LR
     A[Strong CS Foundation] --> B[Python + Problem Solving]
     B --> C[Statistics + Probability]
@@ -371,26 +458,30 @@ flowchart LR
     E --> F[Deep Learning]
     F --> G[AI Engineering]
     G --> H[Intelligent Real-World Systems]
-```
 
-### Current Learning Path
+Current Learning Path
 
-`Python` → `NumPy` → `Pandas` → `Statistics` → `Data Visualization` → `Scikit-learn` → `Machine Learning` → `Deep Learning` → `AI Engineering`
+Python → NumPy → Pandas → Statistics → Data Visualization → Scikit-learn → Machine Learning → Deep Learning → AI Engineering
 
----
-
-# 🤝 Let's Build Something Meaningful
+🤝 Let's Build Something Meaningful
 
 I enjoy collaborating on projects involving:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 💻 Software Engineering
-- ⚡ Backend APIs
-- 📱 Android Development
-- 🎓 Educational Technology
-- 🔐 Secure and intelligent software systems
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+📊 Data Science
+
+💻 Software Engineering
+
+⚡ Backend APIs
+
+📱 Android Development
+
+🎓 Educational Technology
+
+🔐 Secure and intelligent software systems
 
 <div align="center">
 
@@ -400,7 +491,7 @@ I enjoy collaborating on projects involving:
 
 <br/><br/>
 
-### `Learn. Build. Analyze. Improve. Repeat.`
+Learn. Build. Analyze. Improve. Repeat.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7F00FF,100:00C9FF&height=130&section=footer" alt="Footer"/>
 
