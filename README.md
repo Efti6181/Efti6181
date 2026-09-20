@@ -226,40 +226,6 @@ A Python backend project focused on API design, validation, models, and REST dev
 
 ---
 
-# 🧠 AI & Computer Science
-
-<div align="center">
-
-```text
-Artificial Intelligence
-├── BFS
-├── DFS
-├── Uniform Cost Search
-├── Greedy Best-First Search
-├── A*
-├── Minimax
-├── Alpha-Beta Pruning
-└── Heuristic Evaluation
-
-Data Science Foundations
-├── Python
-├── NumPy
-├── Pandas
-├── Matplotlib
-├── Probability
-├── Statistics
-└── Exploratory Data Analysis
-
-Software Engineering
-├── Object-Oriented Programming
-├── MVC / MVVM
-├── Authentication & Authorization
-├── REST API Design
-├── Database Integration
-├── Git Version Control
-└── Modular Application Architecture
-```
-
 </div>
 
 ---
