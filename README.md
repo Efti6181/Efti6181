@@ -63,42 +63,7 @@ I am particularly interested in developing systems that are **intelligent, scala
 
 ---
 
-## 🚀 Current Mission
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Building
-
-- **StudyPilot** academic success platform
-- Role-based systems for **Student / Faculty / Admin**
-- Secure authentication & authorization
-- PostgreSQL-backed application modules
-- AI-assisted academic planning
-- REST APIs and backend applications
-- Modern Android applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Learning Next
-
-- Machine Learning fundamentals
-- Data preprocessing & feature engineering
-- NumPy & Pandas
-- Data visualization
-- Statistics & probability
-- Scikit-learn
-- Model evaluation
-- Deep Learning fundamentals
-
-</td>
-</tr>
-</table>
-
----
 
 # 🛠️ Tech Arsenal
 
