@@ -85,15 +85,6 @@ I am particularly interested in developing systems that are **intelligent, scala
 
 <br/>
 
-### 🤖 AI / ML & Data Science Focus
-
-![Python](https://img.shields.io/badge/Python-AI%20%26%20Data-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Career%20Focus-7F00FF?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-Career%20Focus-00C9FF?style=for-the-badge)
 
 ---
 
